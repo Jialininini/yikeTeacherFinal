@@ -1,0 +1,13 @@
+练习案例:
+	今日一刻	
+		两天 两遍保留index.html
+		项目结构:
+		public  ----文件夹 用于存放共用的东西
+				 |--js 别人提供的js jquery,angularJS
+				 |--css bootstrap
+				 |--imgs 如用户注册时默认的头像
+				 |--fonts
+		uploads	   ---上传文件
+		scripts	   ---自己定义的脚本文件
+		views 	   ----保存所有的视图
+		index.html ----首页
