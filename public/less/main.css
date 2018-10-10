@@ -801,6 +801,10 @@ img {
   width: 3rem;
   height: 3rem;
   float: left;
+/*   border-radius: 50%; */
+}
+.avatar{
+   border-radius: 50%;
 }
 .body .author .info {
   height: 4.375rem;

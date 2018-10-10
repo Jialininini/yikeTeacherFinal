@@ -8,8 +8,10 @@ $urlH = 'https://moment.douban.com/api/auth_authors/rec?alt=json&apikey=0bcf5279
 $a = file_get_contents($urlA);
 $h = file_get_contents($urlH);
 
-// $res=array($a,$h);
+$res=array($a,$h);
 // foreach ($res as $val) {
 // 	echo $val;}
-echo $h;
+echo json_encode($res);
+// echo $a;
+
 ?>

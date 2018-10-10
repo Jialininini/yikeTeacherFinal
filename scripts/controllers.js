@@ -58,7 +58,7 @@ angular.module("Controller",[])
 		url:"API/author.php"
 	}).then(function(result){ 
 		
-		// console.log(result)
+		console.log(JSON.parse(result.data[0]));
 		// console.log(result.data.authors)
 		$scope.posts = result.data.authors;
 		$rootScope.isShow = false;

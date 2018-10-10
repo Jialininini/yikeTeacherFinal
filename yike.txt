@@ -1,3 +1,6 @@
+﻿打开yike:
+启动wamp->浏览器127.0.0.1
+
 练习案例:
 	今日一刻	
 		两天 两遍保留index.html
@@ -67,7 +70,7 @@ day09
 
 			 editor_notes
 			 name 
-			 avvatar
+			 avatar
 
 			chrome添加扩展程序-打开
 
